@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='gyre_reader',
-    version='0.0.1',
+    version='0.0.2',
     description='Tool for accessing a calculated GYRE models.',
     url='https://github.com/cespenar/gyre_reader',
     author='Jakub Ostrowski',
